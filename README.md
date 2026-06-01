@@ -12,7 +12,7 @@ I’m **Mahmud Muhammad**, a Backend developer passionate about Application Secu
 
 ### 🚀 **Currently Working On:**
 
-- **AGRI-CONNECT** - An agricultural platform that connects customers and farmers to conduct business operations.
+- **npxconfuse** - An npm supply chain security scanner that scans for npx bin mismatch vulnerabilities.
 
 
 ---
